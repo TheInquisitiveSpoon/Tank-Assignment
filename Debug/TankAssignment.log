@@ -1,0 +1,13 @@
+﻿  TankAssignment.cpp
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(421,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(484,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(625,42): warning C4244: 'argument': conversion from 'gen::TUInt32' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(625,34): warning C4244: 'argument': conversion from 'gen::TUInt32' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(627,41): warning C4244: 'argument': conversion from 'int' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(627,38): warning C4244: 'argument': conversion from 'int' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(641,42): warning C4244: 'argument': conversion from 'gen::TUInt32' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(641,34): warning C4244: 'argument': conversion from 'gen::TUInt32' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(643,41): warning C4244: 'argument': conversion from 'int' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(643,38): warning C4244: 'argument': conversion from 'int' to 'const gen::TFloat32', possible loss of data
+C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\Source\TankAssignment.cpp(301): warning C4715: 'gen::GetCamera': not all control paths return a value
+  TankAssignment.vcxproj -> C:\Users\Niall\Desktop\UNI\4th Year\CO3301 - Games Development 2\TankAssignment\TankAssignment.exe
